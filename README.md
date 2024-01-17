@@ -21,4 +21,4 @@ measure distances
 search for addresses or place names
 
 #Data sources
-In this map, we have utilized OpenStreetMap as a base map
+In this map, we have utilized OpenStreetMap as a base map: <a href="https://www.OpenStreetMap</a>.OpenStreetMap data is licensed with <a href="https://www.opendatacommons.org/licenses/odbl/">0DbL license</a>
